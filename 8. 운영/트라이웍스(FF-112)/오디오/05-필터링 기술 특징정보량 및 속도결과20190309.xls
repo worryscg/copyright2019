@@ -1,0 +1,104 @@
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>기술적조치 정보시스템</title>
+<meta http-equiv="Content-Type" content="application/vnd.ms-excel; charset=UTF-8" />
+
+</head>
+<body>
+
+<!-- 성능평가 신청현황 - 성능평가 진행 내역 -->
+
+
+<!-- 성능평가 신청현황 - 성능평가 통계 -->
+
+
+
+<!-- 성능평가  - 콘텐츠 정보관리 - 오디오 데이터셋 -->
+
+
+
+<!-- 성능평가  - 콘텐츠 정보관리 - 비디오 데이터셋 -->
+
+
+<!-- 성능평가  - 콘텐츠 정보관리 - 이미지 데이터셋 -->
+
+
+<!-- 성능평가  - 콘텐츠 정보관리 - 모바일앱 데이터셋 -->
+
+
+<!-- 성능평가 - 성능평가 결과 보고서 - 강인성 항목 그룹별 결과 (/장르별 강인성 성능 평가 결과)-->
+
+
+
+<!-- 성능평가 - 성능평가 결과 보고서 - 강인성 평가 세부 결과 목록 -->
+
+
+
+<!-- 성능평가 - 성능평가 결과 보고서 - 일관성 성능평가 결과 -->
+
+
+<!-- 성능평가 - 성능평가 결과 보고서 - 시스템 효율성 결과 -->
+
+
+<!-- 성능평가 - 성능평가 결과 보고서 - 특징정보량 및 속도결과 -->
+
+	<p align = "center"><b>필터링 기술 특징정보량 및 속도결과</b></p>
+	<p align = "right">( 단위 : 건, % )</p>
+	<table border="1">
+		<tr>
+			<th width="120" style = "text-align: center;" bgcolor="#DED5FD">평가항목</th>
+       		<th width="200" style = "text-align: center;" bgcolor="#DED5FD">구분</th>
+       		<th width="120" style = "text-align: center;" bgcolor="#DED5FD">결과</th>
+       		<th width="120" style = "text-align: center;" bgcolor="#DED5FD">건수</th>
+       		<th width="120" style = "text-align: center;" bgcolor="#DED5FD">비고</th>
+       	</tr>
+	
+		
+		<tr>
+			<td style="text-align: center;">특징정보량</td>
+			<td style="text-align: left;">Byte</td>
+			<td style="text-align: center;">1020 Byte/초</td>
+			<td style="text-align: center;">10,000</td>
+			<td style="text-align: left;">     239.06 KB/4 분</td>
+		</tr>
+		<tr>
+			<td style="text-align: center;">고속추출</td>
+			<td style="text-align: left;">평균 특징정보 추출시간(s)</td>
+			<td style="text-align: center;">.63 초/분</td>
+			<td style="text-align: center;">10,000</td>
+			<td style="text-align: left;">2.52 초/4 분</td>
+		</tr>
+		<tr>
+			<td style="text-align: center;">추출 및 비교/검색속도</td>
+			<td style="text-align: left;">단위시간</td>
+			<td style="text-align: center;">.78 초/건</td>
+			<td style="text-align: center;">13,000</td>
+			<td style="text-align: left;"></td>
+		</tr>
+		
+		
+	</table>
+		
+
+
+<!-- 성능평가 - 성능평가 결과 보고서 - 부분매칭 평가 결과 -->
+
+
+<!-- 성능평가 - 성능평가 결과 보고서 - 인식 정보량 평가 결과 -->
+
+
+<!-- 성능평가 - 성능평가 결과 보고서 - 성능 평가 종합 결과 -->
+
+
+</body>
+</html>

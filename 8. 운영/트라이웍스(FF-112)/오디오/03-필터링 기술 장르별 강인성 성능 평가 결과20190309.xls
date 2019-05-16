@@ -1,0 +1,396 @@
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>기술적조치 정보시스템</title>
+<meta http-equiv="Content-Type" content="application/vnd.ms-excel; charset=UTF-8" />
+
+</head>
+<body>
+
+<!-- 성능평가 신청현황 - 성능평가 진행 내역 -->
+
+
+<!-- 성능평가 신청현황 - 성능평가 통계 -->
+
+
+
+<!-- 성능평가  - 콘텐츠 정보관리 - 오디오 데이터셋 -->
+
+
+
+<!-- 성능평가  - 콘텐츠 정보관리 - 비디오 데이터셋 -->
+
+
+<!-- 성능평가  - 콘텐츠 정보관리 - 이미지 데이터셋 -->
+
+
+<!-- 성능평가  - 콘텐츠 정보관리 - 모바일앱 데이터셋 -->
+
+
+<!-- 성능평가 - 성능평가 결과 보고서 - 강인성 항목 그룹별 결과 (/장르별 강인성 성능 평가 결과)-->
+
+	<p align = "center"><b>필터링 기술 장르별 강인성 성능 평가 결과</b></p>
+	<p align = "right">( 단위 : 건, % )</p>
+	<table border="1">
+		<tr>
+			<th width="80" rowspan="2" style="text-align: center;" bgcolor="#DED5FD">순번</th>
+			<th width="200" rowspan="2" style="text-align: center;" bgcolor="#DED5FD">평가항목</th>
+			<th width="120" colspan="2" style="text-align: center;" bgcolor="#DED5FD">인식</th>
+			<th width="120" colspan="2" style="text-align: center;" bgcolor="#DED5FD">오인식</th>
+			<th width="120" colspan="2" style="text-align: center;" bgcolor="#DED5FD">불인식</th>
+			<th width="120" rowspan="2" style="text-align: center;" bgcolor="#DED5FD">총테스트건수</th>
+		</tr>
+		<tr>
+			<th width="60" style="text-align: center;" bgcolor="#DED5FD">건수</th>
+			<th width="60" style="text-align: center;" bgcolor="#DED5FD">인식률</th>
+			<th width="60" style="text-align: center;" bgcolor="#DED5FD">건수</th>
+			<th width="60" style="text-align: center;" bgcolor="#DED5FD">오인식률</th>
+			<th width="60" style="text-align: center;" bgcolor="#DED5FD">건수</th>
+			<th width="60" style="text-align: center;" bgcolor="#DED5FD">불인식률</th>
+		</tr>
+		
+		
+		<tr>
+			
+				
+					<td style="text-align: center;">1</td>
+					<td style="text-align: center;">Hip-hop</td>
+				
+				
+			
+				
+			<td style="text-align: right;">799</td>
+			<td style="text-align: right;">100.00</td>
+			<td style="text-align: right;">0</td>
+			<td style="text-align: right;">0.00</td>
+			<td style="text-align: right;">0</td>
+			<td style="text-align: right;">0.00</td>
+			<td style="text-align: right;">799</td>
+		</tr>
+		
+		<tr>
+			
+				
+					<td style="text-align: center;">2</td>
+					<td style="text-align: center;">A Cappella</td>
+				
+				
+			
+				
+			<td style="text-align: right;">779</td>
+			<td style="text-align: right;">99.87</td>
+			<td style="text-align: right;">1</td>
+			<td style="text-align: right;">0.13</td>
+			<td style="text-align: right;">0</td>
+			<td style="text-align: right;">0.00</td>
+			<td style="text-align: right;">780</td>
+		</tr>
+		
+		<tr>
+			
+				
+					<td style="text-align: center;">3</td>
+					<td style="text-align: center;">Rock</td>
+				
+				
+			
+				
+			<td style="text-align: right;">663</td>
+			<td style="text-align: right;">100.00</td>
+			<td style="text-align: right;">0</td>
+			<td style="text-align: right;">0.00</td>
+			<td style="text-align: right;">0</td>
+			<td style="text-align: right;">0.00</td>
+			<td style="text-align: right;">663</td>
+		</tr>
+		
+		<tr>
+			
+				
+					<td style="text-align: center;">4</td>
+					<td style="text-align: center;">Classical</td>
+				
+				
+			
+				
+			<td style="text-align: right;">765</td>
+			<td style="text-align: right;">99.35</td>
+			<td style="text-align: right;">5</td>
+			<td style="text-align: right;">0.65</td>
+			<td style="text-align: right;">0</td>
+			<td style="text-align: right;">0.00</td>
+			<td style="text-align: right;">770</td>
+		</tr>
+		
+		<tr>
+			
+				
+					<td style="text-align: center;">5</td>
+					<td style="text-align: center;">동요</td>
+				
+				
+			
+				
+			<td style="text-align: right;">733</td>
+			<td style="text-align: right;">99.86</td>
+			<td style="text-align: right;">1</td>
+			<td style="text-align: right;">0.14</td>
+			<td style="text-align: right;">0</td>
+			<td style="text-align: right;">0.00</td>
+			<td style="text-align: right;">734</td>
+		</tr>
+		
+		<tr>
+			
+				
+					<td style="text-align: center;">6</td>
+					<td style="text-align: center;">국악</td>
+				
+				
+			
+				
+			<td style="text-align: right;">804</td>
+			<td style="text-align: right;">99.75</td>
+			<td style="text-align: right;">2</td>
+			<td style="text-align: right;">0.25</td>
+			<td style="text-align: right;">0</td>
+			<td style="text-align: right;">0.00</td>
+			<td style="text-align: right;">806</td>
+		</tr>
+		
+		<tr>
+			
+				
+					<td style="text-align: center;">7</td>
+					<td style="text-align: center;">Newage</td>
+				
+				
+			
+				
+			<td style="text-align: right;">788</td>
+			<td style="text-align: right;">98.62</td>
+			<td style="text-align: right;">11</td>
+			<td style="text-align: right;">1.38</td>
+			<td style="text-align: right;">0</td>
+			<td style="text-align: right;">0.00</td>
+			<td style="text-align: right;">799</td>
+		</tr>
+		
+		<tr>
+			
+				
+					<td style="text-align: center;">8</td>
+					<td style="text-align: center;">Remake</td>
+				
+				
+			
+				
+			<td style="text-align: right;">852</td>
+			<td style="text-align: right;">100.00</td>
+			<td style="text-align: right;">0</td>
+			<td style="text-align: right;">0.00</td>
+			<td style="text-align: right;">0</td>
+			<td style="text-align: right;">0.00</td>
+			<td style="text-align: right;">852</td>
+		</tr>
+		
+		<tr>
+			
+				
+					<td style="text-align: center;">9</td>
+					<td style="text-align: center;">Remix</td>
+				
+				
+			
+				
+			<td style="text-align: right;">746</td>
+			<td style="text-align: right;">99.87</td>
+			<td style="text-align: right;">1</td>
+			<td style="text-align: right;">0.13</td>
+			<td style="text-align: right;">0</td>
+			<td style="text-align: right;">0.00</td>
+			<td style="text-align: right;">747</td>
+		</tr>
+		
+		<tr>
+			
+				
+					<td style="text-align: center;">10</td>
+					<td style="text-align: center;">Pop</td>
+				
+				
+			
+				
+			<td style="text-align: right;">1,400</td>
+			<td style="text-align: right;">99.43</td>
+			<td style="text-align: right;">6</td>
+			<td style="text-align: right;">0.43</td>
+			<td style="text-align: right;">2</td>
+			<td style="text-align: right;">0.14</td>
+			<td style="text-align: right;">1,408</td>
+		</tr>
+		
+		<tr>
+			
+				
+					<td style="text-align: center;">11</td>
+					<td style="text-align: center;">Electronic</td>
+				
+				
+			
+				
+			<td style="text-align: right;">780</td>
+			<td style="text-align: right;">99.74</td>
+			<td style="text-align: right;">2</td>
+			<td style="text-align: right;">0.26</td>
+			<td style="text-align: right;">0</td>
+			<td style="text-align: right;">0.00</td>
+			<td style="text-align: right;">782</td>
+		</tr>
+		
+		<tr>
+			
+				
+					<td style="text-align: center;">12</td>
+					<td style="text-align: center;">MR</td>
+				
+				
+			
+				
+			<td style="text-align: right;">732</td>
+			<td style="text-align: right;">99.86</td>
+			<td style="text-align: right;">1</td>
+			<td style="text-align: right;">0.14</td>
+			<td style="text-align: right;">0</td>
+			<td style="text-align: right;">0.00</td>
+			<td style="text-align: right;">733</td>
+		</tr>
+		
+		<tr>
+			
+				
+					<td style="text-align: center;">13</td>
+					<td style="text-align: center;">Dance&amp;Club music</td>
+				
+				
+			
+				
+			<td style="text-align: right;">715</td>
+			<td style="text-align: right;">100.00</td>
+			<td style="text-align: right;">0</td>
+			<td style="text-align: right;">0.00</td>
+			<td style="text-align: right;">0</td>
+			<td style="text-align: right;">0.00</td>
+			<td style="text-align: right;">715</td>
+		</tr>
+		
+		<tr>
+			
+				
+					<td style="text-align: center;">14</td>
+					<td style="text-align: center;">R&amp;B/Soul</td>
+				
+				
+			
+				
+			<td style="text-align: right;">783</td>
+			<td style="text-align: right;">100.00</td>
+			<td style="text-align: right;">0</td>
+			<td style="text-align: right;">0.00</td>
+			<td style="text-align: right;">0</td>
+			<td style="text-align: right;">0.00</td>
+			<td style="text-align: right;">783</td>
+		</tr>
+		
+		<tr>
+			
+				
+					<td style="text-align: center;">15</td>
+					<td style="text-align: center;">Jazz</td>
+				
+				
+			
+				
+			<td style="text-align: right;">764</td>
+			<td style="text-align: right;">99.87</td>
+			<td style="text-align: right;">1</td>
+			<td style="text-align: right;">0.13</td>
+			<td style="text-align: right;">0</td>
+			<td style="text-align: right;">0.00</td>
+			<td style="text-align: right;">765</td>
+		</tr>
+		
+		<tr>
+			
+				
+					<td style="text-align: center;">16</td>
+					<td style="text-align: center;">교육</td>
+				
+				
+			
+				
+			<td style="text-align: right;">836</td>
+			<td style="text-align: right;">96.76</td>
+			<td style="text-align: right;">28</td>
+			<td style="text-align: right;">3.24</td>
+			<td style="text-align: right;">0</td>
+			<td style="text-align: right;">0.00</td>
+			<td style="text-align: right;">864</td>
+		</tr>
+		
+		<tr>
+			
+				
+				
+					<th colspan=2 style="text-align: center;">합계</th>
+				
+			
+				
+			<td style="text-align: right;">12,939</td>
+			<td style="text-align: right;">99.53</td>
+			<td style="text-align: right;">59</td>
+			<td style="text-align: right;">0.45</td>
+			<td style="text-align: right;">2</td>
+			<td style="text-align: right;">0.02</td>
+			<td style="text-align: right;">13,000</td>
+		</tr>
+		
+		
+	</table>
+		
+
+
+
+<!-- 성능평가 - 성능평가 결과 보고서 - 강인성 평가 세부 결과 목록 -->
+
+
+
+<!-- 성능평가 - 성능평가 결과 보고서 - 일관성 성능평가 결과 -->
+
+
+<!-- 성능평가 - 성능평가 결과 보고서 - 시스템 효율성 결과 -->
+
+
+<!-- 성능평가 - 성능평가 결과 보고서 - 특징정보량 및 속도결과 -->
+
+
+<!-- 성능평가 - 성능평가 결과 보고서 - 부분매칭 평가 결과 -->
+
+
+<!-- 성능평가 - 성능평가 결과 보고서 - 인식 정보량 평가 결과 -->
+
+
+<!-- 성능평가 - 성능평가 결과 보고서 - 성능 평가 종합 결과 -->
+
+
+</body>
+</html>

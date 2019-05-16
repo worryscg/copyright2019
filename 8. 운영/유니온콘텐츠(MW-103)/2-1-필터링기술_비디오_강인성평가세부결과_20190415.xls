@@ -1,0 +1,329 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title> 기술적보호조치 표준 서비스 :: </title>
+<m http-equiv="Content-Type" content="application/vnd.ms-excel; charset=UTF-8" />
+</head>
+<body>
+
+ 
+ <p align = "center"><b>강인성 평가 세부 결과 </b></p>
+              <p align = "right">( 단위 % )</p>
+         <table border="1">
+				 <tr>
+					<th width="120px" rowspan="1" style = "text-align: center;" bgcolor="#DED5FD">평가항목</th>
+					<th width="130px" rowspan="1" style = "text-align: center;" bgcolor="#DED5FD">파라미터</th>
+					<th width="80px" rowspan="1" style = "text-align: center;" bgcolor="#DED5FD">테스트수량</th>
+					<th width="100px" style = "text-align: center;" bgcolor="#DED5FD">인식률</th>
+					<th width="100px" style = "text-align: center;" bgcolor="#DED5FD">오인식률</th>
+					<th width="100px" style = "text-align: center;" bgcolor="#DED5FD">불인식률</th>
+				</tr>
+			 
+			 
+						<tr>
+							<td style = "text-align: center;">로고삽입</td>
+							<td style = "text-align: center;">불투명도 100%</td>
+							<td style = "text-align: center;">500</td>
+							<td style = "text-align: center;">97.60</td>
+							<td style = "text-align: center;">0.00</td>
+							<td style = "text-align: center;">2.40</td>
+						</tr>
+			
+			
+						<tr>
+							<td style = "text-align: center;">자막삽입</td>
+							<td style = "text-align: center;">폰트 사이즈 20</td>
+							<td style = "text-align: center;">168</td>
+							<td style = "text-align: center;">97.02</td>
+							<td style = "text-align: center;">0.00</td>
+							<td style = "text-align: center;">2.98</td>
+						</tr>
+			
+			
+						<tr>
+							<td style = "text-align: center;">자막삽입</td>
+							<td style = "text-align: center;">폰트 사이즈 16</td>
+							<td style = "text-align: center;">166</td>
+							<td style = "text-align: center;">99.40</td>
+							<td style = "text-align: center;">0.00</td>
+							<td style = "text-align: center;">0.60</td>
+						</tr>
+			
+			
+						<tr>
+							<td style = "text-align: center;">자막삽입</td>
+							<td style = "text-align: center;">폰트 사이즈 12</td>
+							<td style = "text-align: center;">166</td>
+							<td style = "text-align: center;">98.80</td>
+							<td style = "text-align: center;">0.00</td>
+							<td style = "text-align: center;">1.20</td>
+						</tr>
+			
+			
+						<tr>
+							<td style = "text-align: center;">영상 압축</td>
+							<td style = "text-align: center;">Divx 700 Kbps</td>
+							<td style = "text-align: center;">250</td>
+							<td style = "text-align: center;">98.40</td>
+							<td style = "text-align: center;">0.00</td>
+							<td style = "text-align: center;">1.60</td>
+						</tr>
+			
+			
+						<tr>
+							<td style = "text-align: center;">영상 압축</td>
+							<td style = "text-align: center;">Divx 512 Kbps</td>
+							<td style = "text-align: center;">250</td>
+							<td style = "text-align: center;">98.00</td>
+							<td style = "text-align: center;">0.00</td>
+							<td style = "text-align: center;">2.00</td>
+						</tr>
+			
+			
+						<tr>
+							<td style = "text-align: center;">코덱 변환</td>
+							<td style = "text-align: center;">MPEG-4/AVC</td>
+							<td style = "text-align: center;">500</td>
+							<td style = "text-align: center;">100.00</td>
+							<td style = "text-align: center;">0.00</td>
+							<td style = "text-align: center;">0.00</td>
+						</tr>
+			
+			
+						<tr>
+							<td style = "text-align: center;">화면비 변환</td>
+							<td style = "text-align: center;">4:3 → 16:9(좌우 흑백 처리)</td>
+							<td style = "text-align: center;">250</td>
+							<td style = "text-align: center;">99.20</td>
+							<td style = "text-align: center;">0.00</td>
+							<td style = "text-align: center;">0.80</td>
+						</tr>
+			
+			
+						<tr>
+							<td style = "text-align: center;">화면비 변환</td>
+							<td style = "text-align: center;">16:9 → 4:3(상하 흑백 처리)</td>
+							<td style = "text-align: center;">250</td>
+							<td style = "text-align: center;">100.00</td>
+							<td style = "text-align: center;">0.00</td>
+							<td style = "text-align: center;">0.00</td>
+						</tr>
+			
+			
+						<tr>
+							<td style = "text-align: center;">해상도 변화</td>
+							<td style = "text-align: center;">640*480</td>
+							<td style = "text-align: center;">166</td>
+							<td style = "text-align: center;">99.40</td>
+							<td style = "text-align: center;">0.00</td>
+							<td style = "text-align: center;">0.60</td>
+						</tr>
+			
+			
+						<tr>
+							<td style = "text-align: center;">해상도 변화</td>
+							<td style = "text-align: center;">800*480</td>
+							<td style = "text-align: center;">168</td>
+							<td style = "text-align: center;">100.00</td>
+							<td style = "text-align: center;">0.00</td>
+							<td style = "text-align: center;">0.00</td>
+						</tr>
+			
+			
+						<tr>
+							<td style = "text-align: center;">해상도 변화</td>
+							<td style = "text-align: center;">320*240</td>
+							<td style = "text-align: center;">166</td>
+							<td style = "text-align: center;">99.40</td>
+							<td style = "text-align: center;">0.00</td>
+							<td style = "text-align: center;">0.60</td>
+						</tr>
+			
+			
+						<tr>
+							<td style = "text-align: center;">프레임 비율 감소</td>
+							<td style = "text-align: center;">20 fps</td>
+							<td style = "text-align: center;">500</td>
+							<td style = "text-align: center;">98.60</td>
+							<td style = "text-align: center;">0.00</td>
+							<td style = "text-align: center;">1.40</td>
+						</tr>
+			
+			
+						<tr>
+							<td style = "text-align: center;">회전</td>
+							<td style = "text-align: center;">180도 회전</td>
+							<td style = "text-align: center;">166</td>
+							<td style = "text-align: center;">95.78</td>
+							<td style = "text-align: center;">0.00</td>
+							<td style = "text-align: center;">4.22</td>
+						</tr>
+			
+			
+						<tr>
+							<td style = "text-align: center;">회전</td>
+							<td style = "text-align: center;">270도 회전(-90도)</td>
+							<td style = "text-align: center;">168</td>
+							<td style = "text-align: center;">99.40</td>
+							<td style = "text-align: center;">0.00</td>
+							<td style = "text-align: center;">0.60</td>
+						</tr>
+			
+			
+						<tr>
+							<td style = "text-align: center;">회전</td>
+							<td style = "text-align: center;">90도 회전</td>
+							<td style = "text-align: center;">166</td>
+							<td style = "text-align: center;">99.40</td>
+							<td style = "text-align: center;">0.00</td>
+							<td style = "text-align: center;">0.60</td>
+						</tr>
+			
+			
+						<tr>
+							<td style = "text-align: center;">반전</td>
+							<td style = "text-align: center;">수평 반전(flip horizontally)</td>
+							<td style = "text-align: center;">250</td>
+							<td style = "text-align: center;">97.60</td>
+							<td style = "text-align: center;">0.00</td>
+							<td style = "text-align: center;">2.40</td>
+						</tr>
+			
+			
+						<tr>
+							<td style = "text-align: center;">반전</td>
+							<td style = "text-align: center;">수직 반전(flip vertically)</td>
+							<td style = "text-align: center;">250</td>
+							<td style = "text-align: center;">97.60</td>
+							<td style = "text-align: center;">0.00</td>
+							<td style = "text-align: center;">2.40</td>
+						</tr>
+			
+			
+						<tr>
+							<td style = "text-align: center;">흑백변환</td>
+							<td style = "text-align: center;">I = 0.299xR + 0.587xG + 0.114xB</td>
+							<td style = "text-align: center;">500</td>
+							<td style = "text-align: center;">98.60</td>
+							<td style = "text-align: center;">0.00</td>
+							<td style = "text-align: center;">1.40</td>
+						</tr>
+			
+			
+						<tr>
+							<td style = "text-align: center;">밝기변화</td>
+							<td style = "text-align: center;">+9%</td>
+							<td style = "text-align: center;">125</td>
+							<td style = "text-align: center;">96.80</td>
+							<td style = "text-align: center;">0.00</td>
+							<td style = "text-align: center;">3.20</td>
+						</tr>
+			
+			
+						<tr>
+							<td style = "text-align: center;">밝기변화</td>
+							<td style = "text-align: center;">+18%</td>
+							<td style = "text-align: center;">125</td>
+							<td style = "text-align: center;">96.00</td>
+							<td style = "text-align: center;">0.00</td>
+							<td style = "text-align: center;">4.00</td>
+						</tr>
+			
+			
+						<tr>
+							<td style = "text-align: center;">밝기변화</td>
+							<td style = "text-align: center;">-18%</td>
+							<td style = "text-align: center;">125</td>
+							<td style = "text-align: center;">97.60</td>
+							<td style = "text-align: center;">0.00</td>
+							<td style = "text-align: center;">2.40</td>
+						</tr>
+			
+			
+						<tr>
+							<td style = "text-align: center;">밝기변화</td>
+							<td style = "text-align: center;">-9%</td>
+							<td style = "text-align: center;">125</td>
+							<td style = "text-align: center;">98.40</td>
+							<td style = "text-align: center;">0.00</td>
+							<td style = "text-align: center;">1.60</td>
+						</tr>
+			
+			
+						<tr>
+							<td style = "text-align: center;">대조 효과 변환</td>
+							<td style = "text-align: center;">Contrast(62%)</td>
+							<td style = "text-align: center;">250</td>
+							<td style = "text-align: center;">97.60</td>
+							<td style = "text-align: center;">0.00</td>
+							<td style = "text-align: center;">2.40</td>
+						</tr>
+			
+			
+						<tr>
+							<td style = "text-align: center;">대조 효과 변환</td>
+							<td style = "text-align: center;">Contrast(137%)</td>
+							<td style = "text-align: center;">250</td>
+							<td style = "text-align: center;">97.20</td>
+							<td style = "text-align: center;">0.00</td>
+							<td style = "text-align: center;">2.80</td>
+						</tr>
+			
+			
+						<tr>
+							<td style = "text-align: center;">복합변형</td>
+							<td style = "text-align: center;">Divx 700Kbps/H.264/폰트사이즈16</td>
+							<td style = "text-align: center;">250</td>
+							<td style = "text-align: center;">100.00</td>
+							<td style = "text-align: center;">0.00</td>
+							<td style = "text-align: center;">0.00</td>
+						</tr>
+			
+			
+						<tr>
+							<td style = "text-align: center;">복합변형</td>
+							<td style = "text-align: center;">Divx 512Kbps/H.264/폰트사이즈16</td>
+							<td style = "text-align: center;">250</td>
+							<td style = "text-align: center;">100.00</td>
+							<td style = "text-align: center;">0.00</td>
+							<td style = "text-align: center;">0.00</td>
+						</tr>
+			
+			   	
+			   			<tr>
+							<td colspan="1" style = "text-align: right;" bgcolor="F8F8F8">합계</td>
+							<td colspan="1" width="0px" bgcolor="F8F8F8"></td>
+							<td style = "text-align: center;">6,500</td>
+							<td style = "text-align: center;">98.54</td>
+							<td style = "text-align: center;">0.00</td>
+							<td style = "text-align: center;">1.46</td>
+						</tr>
+			
+  </body>
+</html>

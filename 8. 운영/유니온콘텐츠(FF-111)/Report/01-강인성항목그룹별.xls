@@ -1,0 +1,360 @@
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>표준 서비스</title>
+<meta http-equiv="Content-Type" content="application/vnd.ms-excel; charset=UTF-8" />
+
+</head>
+<body>
+
+<!-- 성능평가 신청현황 - 성능평가 진행 내역 -->
+
+
+<!-- 성능평가 신청현황 - 성능평가 통계 -->
+
+
+
+<!-- 성능평가  - 콘텐츠 정보관리 - 오디오 데이터셋 -->
+
+
+
+<!-- 성능평가  - 콘텐츠 정보관리 - 비디오 데이터셋 -->
+
+
+<!-- 성능평가  - 콘텐츠 정보관리 - 이미지 데이터셋 -->
+
+
+<!-- 성능평가  - 콘텐츠 정보관리 - 모바일앱 데이터셋 -->
+
+
+<!-- 성능평가 - 성능평가 결과 보고서 - 강인성 항목 그룹별 결과 (/장르별 강인성 성능 평가 결과)-->
+
+	<p align = "center"><b>필터링 기술 강인성 항목 그룹별 결과</b></p>
+	<p align = "right">( 단위 : 건, % )</p>
+	<table border="1">
+		<tr>
+			<th width="80" rowspan="2" style="text-align: center;" bgcolor="#DED5FD">순번</th>
+			<th width="200" rowspan="2" style="text-align: center;" bgcolor="#DED5FD">평가항목</th>
+			<th width="120" colspan="2" style="text-align: center;" bgcolor="#DED5FD">인식</th>
+			<th width="120" colspan="2" style="text-align: center;" bgcolor="#DED5FD">오인식</th>
+			<th width="120" colspan="2" style="text-align: center;" bgcolor="#DED5FD">불인식</th>
+			<th width="120" rowspan="2" style="text-align: center;" bgcolor="#DED5FD">총테스트건수</th>
+		</tr>
+		<tr>
+			<th width="60" style="text-align: center;" bgcolor="#DED5FD">건수</th>
+			<th width="60" style="text-align: center;" bgcolor="#DED5FD">인식률</th>
+			<th width="60" style="text-align: center;" bgcolor="#DED5FD">건수</th>
+			<th width="60" style="text-align: center;" bgcolor="#DED5FD">오인식률</th>
+			<th width="60" style="text-align: center;" bgcolor="#DED5FD">건수</th>
+			<th width="60" style="text-align: center;" bgcolor="#DED5FD">불인식률</th>
+		</tr>
+		
+		
+		<tr>
+			
+				
+					<td style="text-align: center;">1</td>
+					<td style="text-align: center;">로고삽입</td>
+				
+				
+			
+				
+			<td style="text-align: right;">497</td>
+			<td style="text-align: right;">99.40</td>
+			<td style="text-align: right;">0</td>
+			<td style="text-align: right;">0.00</td>
+			<td style="text-align: right;">3</td>
+			<td style="text-align: right;">0.60</td>
+			<td style="text-align: right;">500</td>
+		</tr>
+		
+		<tr>
+			
+				
+					<td style="text-align: center;">2</td>
+					<td style="text-align: center;">자막삽입</td>
+				
+				
+			
+				
+			<td style="text-align: right;">499</td>
+			<td style="text-align: right;">99.80</td>
+			<td style="text-align: right;">0</td>
+			<td style="text-align: right;">0.00</td>
+			<td style="text-align: right;">1</td>
+			<td style="text-align: right;">0.20</td>
+			<td style="text-align: right;">500</td>
+		</tr>
+		
+		<tr>
+			
+				
+					<td style="text-align: center;">3</td>
+					<td style="text-align: center;">영상 압축</td>
+				
+				
+			
+				
+			<td style="text-align: right;">500</td>
+			<td style="text-align: right;">100.00</td>
+			<td style="text-align: right;">0</td>
+			<td style="text-align: right;">0.00</td>
+			<td style="text-align: right;">0</td>
+			<td style="text-align: right;">0.00</td>
+			<td style="text-align: right;">500</td>
+		</tr>
+		
+		<tr>
+			
+				
+					<td style="text-align: center;">4</td>
+					<td style="text-align: center;">코덱 변환</td>
+				
+				
+			
+				
+			<td style="text-align: right;">499</td>
+			<td style="text-align: right;">99.80</td>
+			<td style="text-align: right;">0</td>
+			<td style="text-align: right;">0.00</td>
+			<td style="text-align: right;">1</td>
+			<td style="text-align: right;">0.20</td>
+			<td style="text-align: right;">500</td>
+		</tr>
+		
+		<tr>
+			
+				
+					<td style="text-align: center;">5</td>
+					<td style="text-align: center;">화면비 변환</td>
+				
+				
+			
+				
+			<td style="text-align: right;">500</td>
+			<td style="text-align: right;">100.00</td>
+			<td style="text-align: right;">0</td>
+			<td style="text-align: right;">0.00</td>
+			<td style="text-align: right;">0</td>
+			<td style="text-align: right;">0.00</td>
+			<td style="text-align: right;">500</td>
+		</tr>
+		
+		<tr>
+			
+				
+					<td style="text-align: center;">6</td>
+					<td style="text-align: center;">해상도 변화</td>
+				
+				
+			
+				
+			<td style="text-align: right;">500</td>
+			<td style="text-align: right;">100.00</td>
+			<td style="text-align: right;">0</td>
+			<td style="text-align: right;">0.00</td>
+			<td style="text-align: right;">0</td>
+			<td style="text-align: right;">0.00</td>
+			<td style="text-align: right;">500</td>
+		</tr>
+		
+		<tr>
+			
+				
+					<td style="text-align: center;">7</td>
+					<td style="text-align: center;">프레임 비율 감소</td>
+				
+				
+			
+				
+			<td style="text-align: right;">497</td>
+			<td style="text-align: right;">99.40</td>
+			<td style="text-align: right;">0</td>
+			<td style="text-align: right;">0.00</td>
+			<td style="text-align: right;">3</td>
+			<td style="text-align: right;">0.60</td>
+			<td style="text-align: right;">500</td>
+		</tr>
+		
+		<tr>
+			
+				
+					<td style="text-align: center;">8</td>
+					<td style="text-align: center;">회전</td>
+				
+				
+			
+				
+			<td style="text-align: right;">498</td>
+			<td style="text-align: right;">99.60</td>
+			<td style="text-align: right;">0</td>
+			<td style="text-align: right;">0.00</td>
+			<td style="text-align: right;">2</td>
+			<td style="text-align: right;">0.40</td>
+			<td style="text-align: right;">500</td>
+		</tr>
+		
+		<tr>
+			
+				
+					<td style="text-align: center;">9</td>
+					<td style="text-align: center;">반전</td>
+				
+				
+			
+				
+			<td style="text-align: right;">500</td>
+			<td style="text-align: right;">100.00</td>
+			<td style="text-align: right;">0</td>
+			<td style="text-align: right;">0.00</td>
+			<td style="text-align: right;">0</td>
+			<td style="text-align: right;">0.00</td>
+			<td style="text-align: right;">500</td>
+		</tr>
+		
+		<tr>
+			
+				
+					<td style="text-align: center;">10</td>
+					<td style="text-align: center;">흑백변환</td>
+				
+				
+			
+				
+			<td style="text-align: right;">497</td>
+			<td style="text-align: right;">99.40</td>
+			<td style="text-align: right;">0</td>
+			<td style="text-align: right;">0.00</td>
+			<td style="text-align: right;">3</td>
+			<td style="text-align: right;">0.60</td>
+			<td style="text-align: right;">500</td>
+		</tr>
+		
+		<tr>
+			
+				
+					<td style="text-align: center;">11</td>
+					<td style="text-align: center;">밝기변화</td>
+				
+				
+			
+				
+			<td style="text-align: right;">499</td>
+			<td style="text-align: right;">99.80</td>
+			<td style="text-align: right;">0</td>
+			<td style="text-align: right;">0.00</td>
+			<td style="text-align: right;">1</td>
+			<td style="text-align: right;">0.20</td>
+			<td style="text-align: right;">500</td>
+		</tr>
+		
+		<tr>
+			
+				
+					<td style="text-align: center;">12</td>
+					<td style="text-align: center;">대조 효과 변환</td>
+				
+				
+			
+				
+			<td style="text-align: right;">498</td>
+			<td style="text-align: right;">99.60</td>
+			<td style="text-align: right;">0</td>
+			<td style="text-align: right;">0.00</td>
+			<td style="text-align: right;">2</td>
+			<td style="text-align: right;">0.40</td>
+			<td style="text-align: right;">500</td>
+		</tr>
+		
+		<tr>
+			
+				
+					<td style="text-align: center;">13</td>
+					<td style="text-align: center;">복합변형</td>
+				
+				
+			
+				
+			<td style="text-align: right;">498</td>
+			<td style="text-align: right;">99.60</td>
+			<td style="text-align: right;">0</td>
+			<td style="text-align: right;">0.00</td>
+			<td style="text-align: right;">2</td>
+			<td style="text-align: right;">0.40</td>
+			<td style="text-align: right;">500</td>
+		</tr>
+		
+		<tr>
+			
+				
+					<td style="text-align: center;">14</td>
+					<td style="text-align: center;">기타(압축)</td>
+				
+				
+			
+				
+			<td style="text-align: right;">500</td>
+			<td style="text-align: right;">100.00</td>
+			<td style="text-align: right;">0</td>
+			<td style="text-align: right;">0.00</td>
+			<td style="text-align: right;">0</td>
+			<td style="text-align: right;">0.00</td>
+			<td style="text-align: right;">500</td>
+		</tr>
+		
+		<tr>
+			
+				
+				
+					<th colspan=2 style="text-align: center;">합계</th>
+				
+			
+				
+			<td style="text-align: right;">6,982</td>
+			<td style="text-align: right;">99.74</td>
+			<td style="text-align: right;">0</td>
+			<td style="text-align: right;">0.00</td>
+			<td style="text-align: right;">18</td>
+			<td style="text-align: right;">0.26</td>
+			<td style="text-align: right;">7,000</td>
+		</tr>
+		
+		
+	</table>
+		
+
+
+
+<!-- 성능평가 - 성능평가 결과 보고서 - 강인성 평가 세부 결과 목록 -->
+
+
+
+<!-- 성능평가 - 성능평가 결과 보고서 - 일관성 성능평가 결과 -->
+
+
+<!-- 성능평가 - 성능평가 결과 보고서 - 시스템 효율성 결과 -->
+
+
+<!-- 성능평가 - 성능평가 결과 보고서 - 특징정보량 및 속도결과 -->
+
+
+<!-- 성능평가 - 성능평가 결과 보고서 - 부분매칭 평가 결과 -->
+
+
+<!-- 성능평가 - 성능평가 결과 보고서 - 인식 정보량 평가 결과 -->
+
+
+<!-- 성능평가 - 성능평가 결과 보고서 - 성능 평가 종합 결과 -->
+
+
+</body>
+</html>

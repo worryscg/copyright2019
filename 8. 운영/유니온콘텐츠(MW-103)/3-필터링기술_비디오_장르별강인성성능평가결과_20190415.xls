@@ -1,0 +1,217 @@
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title> 기술적보호조치 표준 서비스 :: </title>
+<META http-equiv="Content-Type" content="application/vnd.ms-excel; charset=UTF-8" />
+
+</head>
+<body>
+        
+         <p align = "center"><b>장르별 강인성 성능평가 결과 조회 </b></p>
+         
+			  <p align = "right">( 단위 : 건, % )</p>
+         <table border="1">
+         	<tr>
+         		
+         		<th width="80" rowspan="2" style = "text-align: center;" bgcolor="#DED5FD">장르</th>
+         		
+         		<th width="160" colspan="2" style = "text-align: center;" bgcolor="#DED5FD">인식</th>	
+         		<th width="160" colspan="2" style = "text-align: center;" bgcolor="#DED5FD">오인식</th>
+         		<th width="160" colspan="2" style = "text-align: center;" bgcolor="#DED5FD">불인식</th>
+         		<th width="100" rowspan="2" style = "text-align: center;" bgcolor="#DED5FD">총테스트건수</th>
+         	</tr>
+         	<tr>
+         		<th width="80" style = "text-align: center;" bgcolor="#DED5FD">건수</th>
+         		<th width="80" style = "text-align: center;" bgcolor="#DED5FD">인식률</th>
+         		<th width="80" style = "text-align: center;" bgcolor="#DED5FD">건수</th>
+         		<th width="80" style = "text-align: center;" bgcolor="#DED5FD">오인식률</th>
+         		<th width="80" style = "text-align: center;" bgcolor="#DED5FD">건수</th>
+         		<th width="80" style = "text-align: center;" bgcolor="#DED5FD">불인식률</th>
+         	</tr>
+			
+			 			<tr>
+			 				<td style = "text-align: center;" bgcolor="#FFFDD2">3D(능동형)</td>
+			 				<td style = "text-align: center;">19</td>
+			 				<td style = "text-align: center;">100</td>
+			 				<td style = "text-align: center;">0</td>
+			 				<td style = "text-align: center;">0.0</td>
+			 				<td style = "text-align: center;">0</td>
+			 				<td style = "text-align: center;">0</td>
+			 				<td style = "text-align: center;">19</td>
+			 			</tr>  
+			 
+			 			<tr>
+			 				<td style = "text-align: center;" bgcolor="#FFFDD2">UHD</td>
+			 				<td style = "text-align: center;">140</td>
+			 				<td style = "text-align: center;">100</td>
+			 				<td style = "text-align: center;">0</td>
+			 				<td style = "text-align: center;">0.0</td>
+			 				<td style = "text-align: center;">0</td>
+			 				<td style = "text-align: center;">0</td>
+			 				<td style = "text-align: center;">140</td>
+			 			</tr>  
+			 
+			 			<tr>
+			 				<td style = "text-align: center;" bgcolor="#FFFDD2">교육</td>
+			 				<td style = "text-align: center;">456</td>
+			 				<td style = "text-align: center;">87.36</td>
+			 				<td style = "text-align: center;">0</td>
+			 				<td style = "text-align: center;">0.0</td>
+			 				<td style = "text-align: center;">66</td>
+			 				<td style = "text-align: center;">12.64</td>
+			 				<td style = "text-align: center;">522</td>
+			 			</tr>  
+			 
+			 			<tr>
+			 				<td style = "text-align: center;" bgcolor="#FFFDD2">뮤직비디오</td>
+			 				<td style = "text-align: center;">284</td>
+			 				<td style = "text-align: center;">99.65</td>
+			 				<td style = "text-align: center;">0</td>
+			 				<td style = "text-align: center;">0.0</td>
+			 				<td style = "text-align: center;">1</td>
+			 				<td style = "text-align: center;">0.35</td>
+			 				<td style = "text-align: center;">285</td>
+			 			</tr>  
+			 
+			 			<tr>
+			 				<td style = "text-align: center;" bgcolor="#FFFDD2">방송물(다큐)</td>
+			 				<td style = "text-align: center;">500</td>
+			 				<td style = "text-align: center;">99.4</td>
+			 				<td style = "text-align: center;">0</td>
+			 				<td style = "text-align: center;">0.0</td>
+			 				<td style = "text-align: center;">3</td>
+			 				<td style = "text-align: center;">0.6</td>
+			 				<td style = "text-align: center;">503</td>
+			 			</tr>  
+			 
+			 			<tr>
+			 				<td style = "text-align: center;" bgcolor="#FFFDD2">방송물(드라마)</td>
+			 				<td style = "text-align: center;">497</td>
+			 				<td style = "text-align: center;">100</td>
+			 				<td style = "text-align: center;">0</td>
+			 				<td style = "text-align: center;">0.0</td>
+			 				<td style = "text-align: center;">0</td>
+			 				<td style = "text-align: center;">0</td>
+			 				<td style = "text-align: center;">497</td>
+			 			</tr>  
+			 
+			 			<tr>
+			 				<td style = "text-align: center;" bgcolor="#FFFDD2">방송물(애니메이션)</td>
+			 				<td style = "text-align: center;">507</td>
+			 				<td style = "text-align: center;">99.8</td>
+			 				<td style = "text-align: center;">0</td>
+			 				<td style = "text-align: center;">0.0</td>
+			 				<td style = "text-align: center;">1</td>
+			 				<td style = "text-align: center;">0.2</td>
+			 				<td style = "text-align: center;">508</td>
+			 			</tr>  
+			 
+			 			<tr>
+			 				<td style = "text-align: center;" bgcolor="#FFFDD2">방송물(예능/오락)</td>
+			 				<td style = "text-align: center;">490</td>
+			 				<td style = "text-align: center;">99.19</td>
+			 				<td style = "text-align: center;">0</td>
+			 				<td style = "text-align: center;">0.0</td>
+			 				<td style = "text-align: center;">4</td>
+			 				<td style = "text-align: center;">0.81</td>
+			 				<td style = "text-align: center;">494</td>
+			 			</tr>  
+			 
+			 			<tr>
+			 				<td style = "text-align: center;" bgcolor="#FFFDD2">영화(기타:드라마/코미디 등)</td>
+			 				<td style = "text-align: center;">523</td>
+			 				<td style = "text-align: center;">99.62</td>
+			 				<td style = "text-align: center;">0</td>
+			 				<td style = "text-align: center;">0.0</td>
+			 				<td style = "text-align: center;">2</td>
+			 				<td style = "text-align: center;">0.38</td>
+			 				<td style = "text-align: center;">525</td>
+			 			</tr>  
+			 
+			 			<tr>
+			 				<td style = "text-align: center;" bgcolor="#FFFDD2">영화(멜로)</td>
+			 				<td style = "text-align: center;">582</td>
+			 				<td style = "text-align: center;">100</td>
+			 				<td style = "text-align: center;">0</td>
+			 				<td style = "text-align: center;">0.0</td>
+			 				<td style = "text-align: center;">0</td>
+			 				<td style = "text-align: center;">0</td>
+			 				<td style = "text-align: center;">582</td>
+			 			</tr>  
+			 
+			 			<tr>
+			 				<td style = "text-align: center;" bgcolor="#FFFDD2">영화(애니메이션)</td>
+			 				<td style = "text-align: center;">550</td>
+			 				<td style = "text-align: center;">100</td>
+			 				<td style = "text-align: center;">0</td>
+			 				<td style = "text-align: center;">0.0</td>
+			 				<td style = "text-align: center;">0</td>
+			 				<td style = "text-align: center;">0</td>
+			 				<td style = "text-align: center;">550</td>
+			 			</tr>  
+			 
+			 			<tr>
+			 				<td style = "text-align: center;" bgcolor="#FFFDD2">영화(액션)</td>
+			 				<td style = "text-align: center;">1,317</td>
+			 				<td style = "text-align: center;">99.02</td>
+			 				<td style = "text-align: center;">0</td>
+			 				<td style = "text-align: center;">0.0</td>
+			 				<td style = "text-align: center;">13</td>
+			 				<td style = "text-align: center;">0.98</td>
+			 				<td style = "text-align: center;">1,330</td>
+			 			</tr>  
+			 
+			 			<tr>
+			 				<td style = "text-align: center;" bgcolor="#FFFDD2">영화(호러/스릴러)</td>
+			 				<td style = "text-align: center;">540</td>
+			 				<td style = "text-align: center;">99.08</td>
+			 				<td style = "text-align: center;">0</td>
+			 				<td style = "text-align: center;">0.0</td>
+			 				<td style = "text-align: center;">5</td>
+			 				<td style = "text-align: center;">0.92</td>
+			 				<td style = "text-align: center;">545</td>
+			 			</tr>  
+			 
+			 			<tr>
+			 				<th style = "text-align: center;">합계</th>
+			 				<td style = "text-align: center;">6,405</td>
+			 				<td style = "text-align: center;">98.54</td>
+			 				<td style = "text-align: center;">0</td>
+			 				<td style = "text-align: center;">0</td>
+			 				<td style = "text-align: center;">95</td>
+			 				<td style = "text-align: center;">1.46</td>
+			 				<td style = "text-align: center;">6,500</td>
+			 			</tr>	
+			        
+					 </table> 
+	
+  </body>
+</html>

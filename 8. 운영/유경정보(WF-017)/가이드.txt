@@ -1,0 +1,19 @@
+48217efc676e4fab1f136ff887d42f1e5ffdcd17e1db7096f6e0e9da40297ba9
+
+
+본 프로그램은 HEVC(h.265)영상에 대한 포렌식마크 프로그램입니다. 
+그래서 사전에 테스트영상을 HEVC로 변경해야합니다. 
+변경하는 프로그램도 같이 첨부했습니다.(ffmpeg.exe) 
+
+사용법 예시 
+HEVC변환 
+.\ffmpeg.exe -i input.mp4 -c:v hevc -f hevc original.hevc 
+
+포렌식마크 생성 모드 
+.\HEVC_DRM.exe -type make -in 우경 홍길동 2019/03/01 비디오 -out forensic.txt 
+
+포렌식마크 삽입 모드 
+.\HEVC_DRM.exe -type insert -in original.hevc -save embedded.hevc -mark 48217efc676e4fab1f136ff887d42f1e5ffdcd17e1db7096f6e0e9da40297ba9 -log insert_log.log 
+
+포렌식마크 추출 모드 
+.\HEVC_DRM.exe -type extract -in embedded.hevc -log extract_log.log

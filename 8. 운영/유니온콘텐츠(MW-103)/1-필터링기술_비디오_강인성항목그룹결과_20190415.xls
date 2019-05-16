@@ -1,0 +1,217 @@
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title> 기술적보호조치 표준 서비스 :: </title>
+<META http-equiv="Content-Type" content="application/vnd.ms-excel; charset=UTF-8" />
+
+</head>
+<body>
+        
+         <p align = "center"><b>강인성 항목 그룹별 평가 결과  </b></p>
+         
+			  <p align = "right">( 단위 : 건, % )</p>
+         <table border="1">
+         	<tr>
+         		        	
+         		<th width="80" rowspan="2" style = "text-align: center;" bgcolor="#DED5FD">평가항목</th>
+         		
+         		<th width="160" colspan="2" style = "text-align: center;" bgcolor="#DED5FD">인식</th>	
+         		<th width="160" colspan="2" style = "text-align: center;" bgcolor="#DED5FD">오인식</th>
+         		<th width="160" colspan="2" style = "text-align: center;" bgcolor="#DED5FD">불인식</th>
+         		<th width="100" rowspan="2" style = "text-align: center;" bgcolor="#DED5FD">총테스트건수</th>
+         	</tr>
+         	<tr>
+         		<th width="80" style = "text-align: center;" bgcolor="#DED5FD">건수</th>
+         		<th width="80" style = "text-align: center;" bgcolor="#DED5FD">인식률</th>
+         		<th width="80" style = "text-align: center;" bgcolor="#DED5FD">건수</th>
+         		<th width="80" style = "text-align: center;" bgcolor="#DED5FD">오인식률</th>
+         		<th width="80" style = "text-align: center;" bgcolor="#DED5FD">건수</th>
+         		<th width="80" style = "text-align: center;" bgcolor="#DED5FD">불인식률</th>
+         	</tr>
+			
+			 			<tr>
+			 				<td style = "text-align: center;" bgcolor="#FFFDD2">로고삽입</td>
+			 				<td style = "text-align: center;">488</td>
+			 				<td style = "text-align: center;">97.6</td>
+			 				<td style = "text-align: center;">0</td>
+			 				<td style = "text-align: center;">0.0</td>
+			 				<td style = "text-align: center;">12</td>
+			 				<td style = "text-align: center;">2.4</td>
+			 				<td style = "text-align: center;">500</td>
+			 			</tr>  
+			 
+			 			<tr>
+			 				<td style = "text-align: center;" bgcolor="#FFFDD2">자막삽입</td>
+			 				<td style = "text-align: center;">492</td>
+			 				<td style = "text-align: center;">98.4</td>
+			 				<td style = "text-align: center;">0</td>
+			 				<td style = "text-align: center;">0.0</td>
+			 				<td style = "text-align: center;">8</td>
+			 				<td style = "text-align: center;">1.6</td>
+			 				<td style = "text-align: center;">500</td>
+			 			</tr>  
+			 
+			 			<tr>
+			 				<td style = "text-align: center;" bgcolor="#FFFDD2">영상 압축</td>
+			 				<td style = "text-align: center;">491</td>
+			 				<td style = "text-align: center;">98.2</td>
+			 				<td style = "text-align: center;">0</td>
+			 				<td style = "text-align: center;">0.0</td>
+			 				<td style = "text-align: center;">9</td>
+			 				<td style = "text-align: center;">1.8</td>
+			 				<td style = "text-align: center;">500</td>
+			 			</tr>  
+			 
+			 			<tr>
+			 				<td style = "text-align: center;" bgcolor="#FFFDD2">코덱 변환</td>
+			 				<td style = "text-align: center;">500</td>
+			 				<td style = "text-align: center;">100</td>
+			 				<td style = "text-align: center;">0</td>
+			 				<td style = "text-align: center;">0.0</td>
+			 				<td style = "text-align: center;">0</td>
+			 				<td style = "text-align: center;">0</td>
+			 				<td style = "text-align: center;">500</td>
+			 			</tr>  
+			 
+			 			<tr>
+			 				<td style = "text-align: center;" bgcolor="#FFFDD2">화면비 변환</td>
+			 				<td style = "text-align: center;">498</td>
+			 				<td style = "text-align: center;">99.6</td>
+			 				<td style = "text-align: center;">0</td>
+			 				<td style = "text-align: center;">0.0</td>
+			 				<td style = "text-align: center;">2</td>
+			 				<td style = "text-align: center;">0.4</td>
+			 				<td style = "text-align: center;">500</td>
+			 			</tr>  
+			 
+			 			<tr>
+			 				<td style = "text-align: center;" bgcolor="#FFFDD2">해상도 변화</td>
+			 				<td style = "text-align: center;">498</td>
+			 				<td style = "text-align: center;">99.6</td>
+			 				<td style = "text-align: center;">0</td>
+			 				<td style = "text-align: center;">0.0</td>
+			 				<td style = "text-align: center;">2</td>
+			 				<td style = "text-align: center;">0.4</td>
+			 				<td style = "text-align: center;">500</td>
+			 			</tr>  
+			 
+			 			<tr>
+			 				<td style = "text-align: center;" bgcolor="#FFFDD2">프레임 비율 감소</td>
+			 				<td style = "text-align: center;">493</td>
+			 				<td style = "text-align: center;">98.6</td>
+			 				<td style = "text-align: center;">0</td>
+			 				<td style = "text-align: center;">0.0</td>
+			 				<td style = "text-align: center;">7</td>
+			 				<td style = "text-align: center;">1.4</td>
+			 				<td style = "text-align: center;">500</td>
+			 			</tr>  
+			 
+			 			<tr>
+			 				<td style = "text-align: center;" bgcolor="#FFFDD2">회전</td>
+			 				<td style = "text-align: center;">491</td>
+			 				<td style = "text-align: center;">98.2</td>
+			 				<td style = "text-align: center;">0</td>
+			 				<td style = "text-align: center;">0.0</td>
+			 				<td style = "text-align: center;">9</td>
+			 				<td style = "text-align: center;">1.8</td>
+			 				<td style = "text-align: center;">500</td>
+			 			</tr>  
+			 
+			 			<tr>
+			 				<td style = "text-align: center;" bgcolor="#FFFDD2">반전</td>
+			 				<td style = "text-align: center;">488</td>
+			 				<td style = "text-align: center;">97.6</td>
+			 				<td style = "text-align: center;">0</td>
+			 				<td style = "text-align: center;">0.0</td>
+			 				<td style = "text-align: center;">12</td>
+			 				<td style = "text-align: center;">2.4</td>
+			 				<td style = "text-align: center;">500</td>
+			 			</tr>  
+			 
+			 			<tr>
+			 				<td style = "text-align: center;" bgcolor="#FFFDD2">흑백변환</td>
+			 				<td style = "text-align: center;">493</td>
+			 				<td style = "text-align: center;">98.6</td>
+			 				<td style = "text-align: center;">0</td>
+			 				<td style = "text-align: center;">0.0</td>
+			 				<td style = "text-align: center;">7</td>
+			 				<td style = "text-align: center;">1.4</td>
+			 				<td style = "text-align: center;">500</td>
+			 			</tr>  
+			 
+			 			<tr>
+			 				<td style = "text-align: center;" bgcolor="#FFFDD2">밝기변화</td>
+			 				<td style = "text-align: center;">486</td>
+			 				<td style = "text-align: center;">97.2</td>
+			 				<td style = "text-align: center;">0</td>
+			 				<td style = "text-align: center;">0.0</td>
+			 				<td style = "text-align: center;">14</td>
+			 				<td style = "text-align: center;">2.8</td>
+			 				<td style = "text-align: center;">500</td>
+			 			</tr>  
+			 
+			 			<tr>
+			 				<td style = "text-align: center;" bgcolor="#FFFDD2">대조 효과 변환</td>
+			 				<td style = "text-align: center;">487</td>
+			 				<td style = "text-align: center;">97.4</td>
+			 				<td style = "text-align: center;">0</td>
+			 				<td style = "text-align: center;">0.0</td>
+			 				<td style = "text-align: center;">13</td>
+			 				<td style = "text-align: center;">2.6</td>
+			 				<td style = "text-align: center;">500</td>
+			 			</tr>  
+			 
+			 			<tr>
+			 				<td style = "text-align: center;" bgcolor="#FFFDD2">복합변형</td>
+			 				<td style = "text-align: center;">500</td>
+			 				<td style = "text-align: center;">100</td>
+			 				<td style = "text-align: center;">0</td>
+			 				<td style = "text-align: center;">0.0</td>
+			 				<td style = "text-align: center;">0</td>
+			 				<td style = "text-align: center;">0</td>
+			 				<td style = "text-align: center;">500</td>
+			 			</tr>  
+			 
+			 			<tr>
+			 				<th style = "text-align: center;">합계</th>
+			 				<td style = "text-align: center;">6,405</td>
+			 				<td style = "text-align: center;">98.54</td>
+			 				<td style = "text-align: center;">0</td>
+			 				<td style = "text-align: center;">0</td>
+			 				<td style = "text-align: center;">95</td>
+			 				<td style = "text-align: center;">1.46</td>
+			 				<td style = "text-align: center;">6,500</td>
+			 			</tr>	
+			        
+					 </table> 
+	
+  </body>
+</html>
